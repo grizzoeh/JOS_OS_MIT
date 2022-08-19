@@ -1,4 +1,4 @@
-# JOS Operatin System, MIT
+# JOS Operating System, MIT
 
 Main project of the "Operating Systems" class at University of Buenos Aires. 
 Based on the 6.828: Operating System Engineering MIT class labs https://pdos.csail.mit.edu/6.828/2017
